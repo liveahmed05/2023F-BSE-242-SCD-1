@@ -3,8 +3,9 @@ public class program {
 
 	
 	public static void main(String[] args) {
-		System.out.println("Hello SSUET");
+		System.out.println("Hello Sir Syed Univeristy");
 
 	}
 
 }
+
